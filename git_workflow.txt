@@ -3,3 +3,6 @@ git add .
 git commit -m "Initial commit: projekt analizy logów"
 git status
 git status --ignored
+gh repo create zadanie-git-workflow --public --source=. --remote=origin
+git checkout -b zadanie
+git push -u origin zadanie
