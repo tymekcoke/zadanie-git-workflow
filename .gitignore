@@ -1,0 +1,13 @@
+# Pliki .log
+*.log
+
+# Archiwa
+*.tar.gz
+*.tar.bz2
+
+# Katalog downloaded_logs
+downloaded_logs/
+
+# Pliki tymczasowe
+*.tmp
+*.temp
